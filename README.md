@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @BPS-Soprano
-- 👀 I’m interested in electronic
-- 🌱 I’m currently learning automation projects
-- 💞️ I’m looking to collaborate on electronic
-- 📫 How to reach me ...
+- 👋 Hi, I’m @BPS-Bereen Piano SOB
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning how to become a full stack programmer
+- 💞️ I’m looking to collaborate on software development
+- 📫 How to reach me : email :  pianosoprano1@gmail.com, whatsapp : (+39)351 175 8130
 
 <!---
 BPS-Soprano/BPS-Soprano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
